@@ -46,7 +46,7 @@ The bank customer churn dataset, available on Kaggle, is widely used for predict
 
 ## Results and Conclusion:
 
-The tables below summarize the performance of three models—Random Forest, XGBoost, and LightGBM—using metrics such as precision, recall, F1-score, accuracy, and AUC. Table 1 presents the results for the Random Forest model, Table 2 covers the XGBoost model, and Table 3 highlights the LightGBM model, which delivered the best outcomes. These tables offer a comprehensive comparison of each model's effectiveness under different configurations and preprocessing techniques.
+The tables below summarize the performance of three models—Random Forest, XGBoost, and LightGBM—using metrics such as precision, recall, F1-score, accuracy, and AUC. Table 1 presents the results for the Random Forest model, Table 2 covers the XGBoost model, and Table 3 highlights the LightGBM model, which delivered the best outcomes. These tables offer a comprehensive comparison of each model's effectiveness under different preprocessing techniques.
 
 <div align=center>
 <img width="325" alt="Screenshot 2024-08-06 at 10 08 02 PM" src="https://github.com/user-attachments/assets/530e5984-8651-4ace-9574-fe78777f723f">
